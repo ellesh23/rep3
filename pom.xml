@@ -30,5 +30,10 @@
             <type>jar</type>
             <scope>compile</scope>
         </dependency>
+		<dependency>
+    <groupId>com.google.apis</groupId>
+    <artifactId>google-api-services-playcustomapp</artifactId>
+    <version>v1-rev20211022-2.0.0</version>
+</dependency>
     </dependencies>
 </project>
